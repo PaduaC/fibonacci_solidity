@@ -1,4 +1,4 @@
-pragma solidity >=0.5.0 <0.8.0;
+pragma solidity ^0.5.2;
 
 contract Fibonacci {
     function fib(uint256 n) external pure returns (uint256) {
